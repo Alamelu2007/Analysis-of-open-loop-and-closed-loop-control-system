@@ -18,9 +18,21 @@ Therefore, Closed loop transfer function, (C(S))/(R(S))=300/(S^2+10S+320)
 ## Program: 
 ### Open loop System
 
+<img width="237" height="151" alt="Screenshot 2026-07-23 144309" src="https://github.com/user-attachments/assets/0b7ecb8c-3a61-4894-b105-d426140a1e2c" />
+
+
 ### Closed loop System
 
+<img width="213" height="151" alt="Screenshot 2026-07-23 144156" src="https://github.com/user-attachments/assets/e3462167-2267-48bd-ae53-35d8096640e3" />
+
+
 ## Simulink:
+open loop system
+
+<img width="688" height="313" alt="Screenshot 2026-07-23 140706" src="https://github.com/user-attachments/assets/e52d41d1-f586-4156-898c-9b87211a2882" />
+closed loop system
+<img width="691" height="227" alt="Screenshot 2026-07-23 140446" src="https://github.com/user-attachments/assets/143b75e4-aa1f-4f93-88df-ad48e53cc50e" />
+
 
 ## Procedure:
 	Open MATLAB software
@@ -30,15 +42,21 @@ Therefore, Closed loop transfer function, (C(S))/(R(S))=300/(S^2+10S+320)
 	Analyse the result.
 ## Output:
 ### Open Loop System:
+
+<img width="701" height="622" alt="Screenshot 2026-07-23 142701" src="https://github.com/user-attachments/assets/4ce47214-3591-4976-9af3-655fb6004024" />
+
 ### Closed Loop System:
+
+<img width="700" height="623" alt="Screenshot 2026-07-23 144130" src="https://github.com/user-attachments/assets/03f343b0-586a-4c57-9437-8cf067b5960b" />
+
 ## Result:
 Thus the open loop and closed loop system are analysed and the following conclusions are arrived.
 ### Open loop system
-Steady State Error = <br>
-Settling Time = 
+Steady State Error = 0.95
+Settling Time = 2.25s
 ### Closed loop System
-Steady State Error = <br>
-Settling Time = 
+Steady State Error = 0.4
+Settling Time = 1.2s
 
 
 
